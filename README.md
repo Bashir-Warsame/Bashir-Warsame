@@ -1,4 +1,4 @@
-# Bashir Warsame
+# 🏄‍♂️ Bashir Warsame
 
 👋🏽Hello, Hello, I am Bashir, a Technical Consultant and recent bootcamp graduate looking for full-time opportunities.
 
