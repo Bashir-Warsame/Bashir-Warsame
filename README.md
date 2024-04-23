@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer</h3>
 
 
-<h4>&#x1F44B;&#x1F3FD; Hello, Bashir, Technical Consultant.</h4>
+<h4>&#x1F44B;&#x1F3FD; Hello I'm Bashir, Technical Consultant.</h4>
 
 <p>&#x1F4C8; What makes me passionate about analyzing data is the ability to extract insight for solutions. There is so much information to uncover, and being such a curious person, I enjoy diving deep into the data and finding answers to problems.</p>
 
