@@ -30,12 +30,11 @@ Hi, I'm Bashir 🙌, an aspiring Data Engineer with a passion for leveraging dat
 - 📝[Portfolio](YourPortfolioLink)
 - ✨ I like to 
 
-
 **Languages and Tools:**
 
-<code><img height="20" src="PythonIconLink"></code>
-<code><img height="20" src="SQLIconLink"></code>
-<code><img height="20" src="GCPIconLink"></code>
-<code><img height="20" src="PowerBIIconLink"></code>
+<code><img height="20" src="https://example.com/python-icon.png"></code>
+<code><img height="20" src="https://example.com/sql-icon.png"></code>
+<code><img height="20" src="https://example.com/gcp-icon.png"></code>
+<code><img height="20" src="https://example.com/powerbi-icon.png"></code>
 
-![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true)
+![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=Bashir-Warsame&show_icons=true&hide_border=true)
