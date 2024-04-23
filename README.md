@@ -6,18 +6,15 @@ Hello World! 👋 It's [Your Name!](YourPortfolioLink)
 
 <br/>
 
-<a href="YourTwitterLink">
-  <img align="left" alt="Your Name | Twitter" width="22px" src="TwitterIconLink" />
-</a>
-<a href="YourLinkedInLink">
-  <img align="left" alt="Your Name | LinkedIn" width="22px" src="LinkedInIconLink" />
+<a href="https://www.linkedin.com/in/bashir-warsame-b0011914b/">
+  <img align="left" alt="Bashir Warsame | LinkedIn" width="22px" src="LinkedInIconLink" />
 </a>
 <!-- Add more social media links as needed -->
 
 <br/>
 <br/>
 
-Hi, I'm Your Name🙌, an aspiring Data Engineer with a passion for leveraging data to drive insights and make informed decisions. I have a strong foundation in Python, SQL, and cloud technologies like Google Cloud Platform (GCP). I'm enthusiastic about building scalable data pipelines, optimizing data workflows, and creating meaningful visualizations using tools like Power BI.
+Hi, I'm Bashir 🙌, an aspiring Data Engineer with a passion for leveraging data to drive insights and make informed decisions. I have a strong foundation in Python, SQL, and cloud technologies like Google Cloud Platform (GCP). I'm enthusiastic about building scalable data pipelines, optimizing data workflows, and creating meaningful visualizations using tools like Power BI.
 
 <img align="right" alt="GIF" src="YourGIFLink" />
 
@@ -25,12 +22,13 @@ Hi, I'm Your Name🙌, an aspiring Data Engineer with a passion for leveraging d
 
 - 🔭 I’m currently a Technical Consultant at Xander Talent.
 - 🌱 I’m currently learning about data engineering best practices and advanced SQL techniques.
-- 👯 I'm actively involved in data engineering communities and forums.
+- 👯 I’m intersted in learning more about the life-cycle of data and AI
 - 💬 Ask me about anything related to data engineering or my journey as an aspiring data engineer!
 - 📫 How to reach me: Feel free to connect with me on any of the social media platforms listed below.
+- 🥅 Current goals of mine are to work in data and contribute to projects
 - ⚡ Check out my recent [Blogs](YourMediumLink)
 - 📝[Portfolio](YourPortfolioLink)
-- ✨ I can draw too. [ArtGallery](YourInstagramLink)
+- ✨ I like to 
 
 
 **Languages and Tools:**
