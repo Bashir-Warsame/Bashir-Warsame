@@ -1,12 +1,4 @@
-<br/>
-
-<a href="https://www.linkedin.com/in/bashir-warsame-b0011914b/">
-  <img align="left" alt="Bashir Warsame | LinkedIn" width="22px" src="LinkedInIconLink" />
-</a>
-<!-- Add more social media links as needed -->
-
-<br/>
-<br/>
+***Bashir Warsame***
 
 Hi, I'm Bashir 🙌, an aspiring Data Engineer with a passion for leveraging data to drive insights and make informed decisions. I have a strong foundation in Python, SQL, and cloud technologies like Google Cloud Platform (GCP). I'm enthusiastic about building scalable data pipelines, optimizing data workflows, and creating meaningful visualizations using tools like Power BI.
 
