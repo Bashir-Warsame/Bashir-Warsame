@@ -1,4 +1,4 @@
-*Bashir Warsame*
+# Bashir Warsame
 
 Hi, I'm Bashir 🙌, an aspiring Data Engineer with a passion for leveraging data to drive insights and make informed decisions. I have a strong foundation in Python, SQL, and cloud technologies like Google Cloud Platform (GCP). I'm enthusiastic about building scalable data pipelines, optimizing data workflows, and creating meaningful visualizations using tools like Power BI.
 
