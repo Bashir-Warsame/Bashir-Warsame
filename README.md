@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<--
-**Bashir-Warsame/Bashir-Warsame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-Hello World! 👋 It's [Your Name!](YourPortfolioLink)
-
 <br/>
 
 <a href="https://www.linkedin.com/in/bashir-warsame-b0011914b/">
