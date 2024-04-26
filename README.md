@@ -6,7 +6,7 @@
 
 <p>&#x1F4C8; What makes me passionate about analyzing data is the ability to extract insight for solutions. There is so much information to uncover, and being such a curious person, I enjoy diving deep into the data and finding answers to problems.</p>
 
-<p>&#x26F9;&#xFE0F;&#x200D;&#x2640;&#xFE0F; In my spare time, aside from learning, I have been eating clean, lifting weights, and playing football.</p>
+<p>&#x26F9;&#xFE0F;&#x200D;&#x2640;&#xFE0F; In my spare time, aside from learning, I have been eating clean, lifting weights, and watching basketball.</p>
 
 <p>&#x1F601; I am always happy to connect and chat. I am looking forward to meeting you!</p>
 
