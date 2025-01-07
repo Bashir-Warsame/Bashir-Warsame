@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bashir</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Apprentice DevOps Engineer</h3>
 
 
-<h4>&#x1F44B;&#x1F3FD; Hello I'm Bashir, Technical Consultant.</h4>
+<h4>&#x1F44B;&#x1F3FD; Hello I'm Bashir, DevOps Engineer.</h4>
 
 <p>&#x1F4C8; What makes me passionate about analyzing data is the ability to extract insight for solutions. There is so much information to uncover, and being such a curious person, I enjoy diving deep into the data and finding answers to problems.</p>
 
