@@ -75,13 +75,20 @@ Includes ALB-based ingress, HTTPS via ACM, DNS routing with Route 53, and automa
 
 ---
 
-### 🏥 Reliability Engineering Project
+### 🏥 [Reliability Engineering Project](https://docs.google.com/presentation/d/1Aw6Toc70QnjAvK5iQrfuJzWcXhCgBQ2aZ2k8hz_i3io/edit?usp=sharing)
 Improved reliability and security of a legacy healthcare system by introducing EC2-based reverse proxying, caching, and CDN distribution.  
 Achieved **100% uptime** while preserving core functionality and strengthening security controls.
 
 **Tech:** AWS EC2 • NGINX • CloudFront • Caching • Security
 
 ---
+
+### 🖥️ [AWS EC2 NGINX Deployment with Terraform](https://github.com/Bashir-Warsame/Terraform-nginx-EC2)
+
+Provisioned a publicly accessible **EC2 instance running NGINX** on AWS using **Terraform**.  
+The project demonstrates end-to-end infrastructure provisioning, secure networking configuration, and real-world troubleshooting of cloud deployments. The setup includes an EC2 instance in `eu-west-2`, a custom security group allowing HTTP access, SSH key-based authentication, and validation of the running service via the NGINX default page.
+
+**Tech:** AWS • EC2 • Terraform • NGINX • Linux • SSH • Networking
 
 ## 📊 GitHub Activity
 
