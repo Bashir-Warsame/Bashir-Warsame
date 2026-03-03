@@ -59,7 +59,7 @@ I currently work within **HMRC’s Robotics Automation team**, delivering intern
 
 ## 🚀 Featured Projects
 
-### 🔍 Infinity Search Solo — GitOps on AWS EKS
+### 🔍 [Infinity Search Solo — GitOps on AWS EKS](https://github.com/Bashir-Warsame/eks-gitops-infinity-solo)
 Flask-based search application deployed on **Amazon EKS** using a **GitOps operating model**.  
 Implements Argo CD for continuous reconciliation, NGINX Ingress with HTTPS via cert-manager, automated DNS with external-dns, and a custom domain.
 
@@ -67,7 +67,7 @@ Implements Argo CD for continuous reconciliation, NGINX Ingress with HTTPS via c
 
 ---
 
-### 🧠 Threat Model Microservice — AWS Fargate + Terraform
+### 🧠 [Threat Model Microservice — AWS Fargate + Terraform](https://github.com/Bashir-Warsame/ecs-threatmodel-project)
 Containerised Flask microservice deployed on **AWS Fargate**, fully provisioned using Terraform.  
 Includes ALB-based ingress, HTTPS via ACM, DNS routing with Route 53, and automated deployments via GitHub Actions.
 
