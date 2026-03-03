@@ -7,10 +7,6 @@
 <a href="https://www.linkedin.com/in/bashir-warsame-b0011914b/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
 </a>
-<a href="https://github.com/Bashir-Warsame" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
-</a>
-
 </div>
 
 ---
