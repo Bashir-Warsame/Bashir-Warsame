@@ -86,23 +86,7 @@ The project demonstrates end-to-end infrastructure provisioning, secure networki
 
 **Tech:** AWS • EC2 • Terraform • NGINX • Linux • SSH • Networking
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bashir-Warsame&theme=github-dark" width="75%" />
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bashir-WarsameB&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
-## 📫 Get in Touch
-
-- LinkedIn: https://www.linkedin.com/in/bashir-warsame-b0011914b/
-- Email: warsameb29@gmail.com
-
----
 
 *I’m particularly interested in platform engineering, SRE, and DevOps roles where I can help teams ship safely, operate reliably, and automate relentlessly.*
