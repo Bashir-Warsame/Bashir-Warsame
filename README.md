@@ -63,7 +63,7 @@ Implements Argo CD for continuous reconciliation, NGINX Ingress with HTTPS via c
 
 ---
 
-### 🧠 [Threat Model Microservice — AWS Fargate + Terraform](https://github.com/Bashir-Warsame/ecs-threatmodel-project)
+### 🧠 [Fast API URL shortner — AWS Fargate + Terraform](https://github.com/Bashir-Warsame/ECS-Project-)
 Containerised Flask microservice deployed on **AWS Fargate**, fully provisioned using Terraform.  
 Includes ALB-based ingress, HTTPS via ACM, DNS routing with Route 53, and automated deployments via GitHub Actions.
 
